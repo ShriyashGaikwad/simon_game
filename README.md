@@ -52,9 +52,7 @@ You can add your deployed project link here:
 
 Screenshot of the game :
 
-```text
 (images/simon_game.png)
-```
 
 ## 👨‍💻 Author
 
