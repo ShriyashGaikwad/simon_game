@@ -33,9 +33,13 @@ The game tests your memory by challenging you to remember and repeat an increasi
 ```text
 simon_game/
 │
-├── index.html
-├── style.css
-└── script.js
+├── javascript minipro.html
+├── javascript minipro.css
+├── javascript minipro.js
+├── README.md
+└── images/
+    └── simon_game.png
+
 ```
 
 ## 🌐 Live Demo
@@ -46,10 +50,10 @@ You can add your deployed project link here:
 
 ## 📸 Screenshot
 
-Add a screenshot of your game here if you want:
+Screenshot of the game :
 
 ```text
-![Simon Game Screenshot](screenshot.png)
+(images/simon_game.png)
 ```
 
 ## 👨‍💻 Author
