@@ -39,7 +39,6 @@ simon_game/
 ├── README.md
 └── images/
     └── simon_game.png
-
 ```
 
 ## 🌐 Live Demo
@@ -50,11 +49,9 @@ You can add your deployed project link here:
 
 ## 📸 Screenshot
 
-Screenshot of the game :
+Screenshot of the game:
 
-```text
 ![Simon Game Screenshot](images/simon_game.png)
-```
 
 ## 👨‍💻 Author
 
