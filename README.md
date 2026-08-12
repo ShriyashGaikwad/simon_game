@@ -45,7 +45,7 @@ simon_game/
 
 You can add your deployed project link here:
 
-**[Play Simon Game](YOUR_LIVE_DEMO_LINK)**
+**[Play Simon Game](https://simongameio.netlify.app/)**
 
 ## 📸 Screenshot
 
