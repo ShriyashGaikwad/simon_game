@@ -33,7 +33,7 @@ The game tests your memory by challenging you to remember and repeat an increasi
 ```text
 simon_game/
 │
-├── javascript minipro.html
+├── index.html
 ├── javascript minipro.css
 ├── javascript minipro.js
 ├── README.md
